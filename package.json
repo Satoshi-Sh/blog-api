@@ -1,6 +1,7 @@
 {
   "name": "api",
   "version": "0.0.0",
+  "engines":{"node":"v16.17.0"},
   "private": true,
   "scripts": {
     "start": "nodemon ./bin/www"
